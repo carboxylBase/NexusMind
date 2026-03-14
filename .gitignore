@@ -16,3 +16,13 @@ data.json
 # IDE 配置
 .idea/
 .vscode/
+
+# 数据缓存
+pushed_history.json
+
+# AI 提示词
+AI_READ.md
+prompt.md
+
+# 脚本工具
+scripts
