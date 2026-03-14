@@ -1,0 +1,11 @@
+# 基础网络请求
+requests==2.31.0
+
+# 环境变量加载
+python-dotenv==1.0.1
+
+# 定时任务调度 (轻量级)
+schedule==1.2.1
+
+# 如果你打算用基础的 LangChain (可选，根据你实际调用的 LLM 决定)
+# langchain==0.1.0

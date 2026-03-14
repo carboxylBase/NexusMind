@@ -1,0 +1,18 @@
+# Python 编译文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# 环境变量与隐私文件
+.env
+*.sqlite3
+data.json
+
+# IDE 配置
+.idea/
+.vscode/
